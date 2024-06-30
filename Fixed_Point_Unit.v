@@ -42,7 +42,7 @@ module Fixed_Point_Unit
 
         /*
          *  Describe Your Square Root Calculator Circuit Here.
-         *
+         */
          module sqrt16 (
     input [15:0] radicand,
     output [7:0] root
@@ -69,7 +69,7 @@ module Fixed_Point_Unit
     
     assign root = root_reg;
 endmodule
-/
+
 
     // ------------------ //
     // Multiplier Circuit //
