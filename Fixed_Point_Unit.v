@@ -67,7 +67,7 @@ module Fixed_Point_Unit
     reg     [31 : 0] partialProduct3;
     reg     [31 : 0] partialProduct4;
 
-end module
+endmodule
 
 module sqrt16 (
     input [15:0] radicand,
@@ -94,7 +94,7 @@ module sqrt16 (
     end
     
     assign root = root_reg;
-end module
+endmodule
          module Multiplier32
          (
             input wire [31:0] operand_1,
