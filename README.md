@@ -1,6 +1,8 @@
+Name:Mehra Golalizadeh
+Team Members:sedigheh hassanzadeh
+student id:4004000433
+
 “Assembly.s”:
-
-
 **1. Initialization:**
 
 * **`main:`** This label defines the starting point of the program's execution.
@@ -104,5 +106,13 @@ module Multiplier (
 **In Summary:**
 
 This code defines a simple multiplier module that takes two 16-bit input values and produces their 32-bit product. The `always @(*)` block ensures that the output `product` is updated whenever the inputs change, making it a purely combinational logic element.
+
+**WaveForms**
+![1](https://github.com/mehraaaa/LUMOS/assets/159551279/e45d7b4f-6f8d-4c9e-956a-1f2cec0a64d5)
+![2](https://github.com/mehraaaa/LUMOS/assets/159551279/49145950-014f-4721-8707-cc9adf2f4ce0)
+![3](https://github.com/mehraaaa/LUMOS/assets/159551279/911a503b-1f99-4db0-9321-b2d53197f02e)
+![4](https://github.com/mehraaaa/LUMOS/assets/159551279/df43ed5b-d124-4cf0-bfa3-6d86514ff7a0)
+
+
 
 
