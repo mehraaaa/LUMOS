@@ -68,7 +68,6 @@ module Fixed_Point_Unit
     end
     
     assign root = root_reg;
-endmodule
 
 
     // ------------------ //
