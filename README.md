@@ -103,7 +103,9 @@ module Multiplier (
 * `input wire [15 : 0] operand_1`:  This declares an input signal named `operand_1`. It is a 16-bit wide wire (meaning it can carry a single value at a time) and its values will be provided externally to the module.
 * `input wire [15 : 0] operand_2`: Similar to `operand_1`, this declares another 16-bit input wire for the second operand.
 * `output reg [31 : 0] product`: This declares an output signal named `product`. It is a 32-bit wide register (meaning it can store a value) and its value will be produced by the module.
-* explanation of square and multiplier modules
+
+
+2.explanation of square and multiplier modules
   
 module Multiplier32
 This module takes two 32-bit operands as inputs and produces a 64-bit product as the output. It uses four smaller multipliers to break down the multiplication process into more manageable parts.
